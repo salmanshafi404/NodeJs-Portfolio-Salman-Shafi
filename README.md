@@ -1,6 +1,6 @@
-# Portfolio - Mehedi Hasan
+# Portfolio - Salman Shafi
 
-A modern, performance-optimized portfolio website built with Next.js and Tailwind CSS, designed to showcase a web developer's work and skills with a seamless user experience.
+A modern, performance-optimized portfolio website built with Next.js and Tailwind CSS, designed to showcase a System Administrator's expertise in server management, networking, cloud infrastructure, security, and automation with a seamless user experience. It highlights technical skills, projects, certifications, and monitoring dashboards, making it ideal for IT professionals, DevOps engineers, and SysAdmins to demonstrate their capabilities effectively.
 
 [![GitHub stars](https://img.shields.io/github/stars/asma019/NodeJs-Portfolio-Mehedi-Hasan?style=social)](https://github.com/asma019/NodeJs-Portfolio-Mehedi-Hasan/stargazers) [![Latest Release](https://img.shields.io/github/v/release/asma019/NodeJs-Portfolio-Mehedi-Hasan?style=flat-square)](https://github.com/asma019/NodeJs-Portfolio-Mehedi-Hasan/releases/tag/v)
 
